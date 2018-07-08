@@ -31,6 +31,6 @@ def position_taken?(board, index)
   end
 end
 
-def move(board, position, player="X")
-  
+def move(board, index, player="X")
+  board[]
 end
