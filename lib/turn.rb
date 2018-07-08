@@ -17,6 +17,9 @@ end
 def valid_move?(board, index, player)
   if !position_taken?(index) and index.between?(0-8)
     return true 
+  else 
+    false 
+  end
 end
 
 def position_taken?()
