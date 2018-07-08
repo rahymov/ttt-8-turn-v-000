@@ -3,4 +3,4 @@ def turn(board)
   
 end
 
-def move
+display_board
