@@ -7,6 +7,7 @@ def display_board(board)
   
 end
 
+def input_to_index()
 def valid_move?(board, index, player)
   
 end
