@@ -22,7 +22,7 @@ def valid_move?(board, index, player)
   end
 end
 
-def position_taken?(index)
+def position_taken?(board, index)
   
 end
 
