@@ -15,7 +15,7 @@ def input_to_index(user_input)
   index = user_input.to_i - 1
 end
 def valid_move?(board, index, player)
-  if !position_taken?() and 
+  if !position_taken?(index) and 
 end
 
 def position_taken?()
