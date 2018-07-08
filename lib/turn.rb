@@ -16,4 +16,5 @@ def position_taken?()
 end
 
 def move()
+  
 end
