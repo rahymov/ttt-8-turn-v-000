@@ -3,3 +3,4 @@ def turn(board)
   
 end
 
+def move
