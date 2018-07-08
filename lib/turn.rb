@@ -15,4 +15,5 @@ def position_taken?()
   
 end
 
-def move
+def move()
+end
