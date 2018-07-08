@@ -15,6 +15,6 @@ def position_taken?()
   
 end
 
-def move(board, position)
+def move(board, position, player="X")
   
 end
